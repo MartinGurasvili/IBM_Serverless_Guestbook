@@ -1,1 +1,1 @@
-# IBM_Serverless_Guestbook
+# serverless-guestbook
